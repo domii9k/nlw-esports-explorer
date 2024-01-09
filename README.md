@@ -6,7 +6,7 @@
 
 Projeto contruído no evento Next Level Week do Rocketseat.
 
-[Clique aqui para acessar](https://domi-nique99.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar](https://domii9k.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
